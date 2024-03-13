@@ -8,6 +8,3 @@
 	path = depends/xbyak
 	url = https://github.com/herumi/xbyak.git
 
-[submodule "depends/libff"]
-	path = depends/libff
-	url = https://github.com/ychyss/libff.git
